@@ -1,0 +1,8 @@
+{
+  "Bedrock": {
+    "host": "192.168.0.194",
+    "port": 32,
+    "username": "bedrock",
+    "password": "0304"
+  }
+}
